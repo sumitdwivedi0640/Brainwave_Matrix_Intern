@@ -1,0 +1,17 @@
+{
+    "P001": {
+        "name": "Smartphone",
+        "quantity": 100,
+        "price": 499.99
+    },
+    "P002": {
+        "name": "CHARGER",
+        "quantity": 50,
+        "price": 999.99
+    },
+    "P003": {
+        "name": "Laptop",
+        "quantity": 10,
+        "price": 1999.99
+    }
+}

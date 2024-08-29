@@ -1,0 +1,15 @@
+{
+    "1": {
+        "name": "Honey",
+        "balance": 10500.0,
+        "transactions": [
+            "Deposited $1000.00",
+            "Withdrew $500.00"
+        ]
+    },
+    "2": {
+        "name": "Sumit",
+        "balance": 15000.0,
+        "transactions": []
+    }
+}
